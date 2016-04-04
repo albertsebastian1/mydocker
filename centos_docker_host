@@ -1,10 +1,10 @@
-#Docker File to build a docker conatiner with web_players in it 
+#Docker File to build a docker conatiner with base centos
 
 # Set the base image to Centos 6.4 
 FROM gpmidi/centos-6.4
 
 #File Author
-MAINTAINER Albert Sebastian albert.sebastian@hashedin.com
+MAINTAINER Albert Sebastian albertsebastian1@gmail.com
 
 #**************************************
 
